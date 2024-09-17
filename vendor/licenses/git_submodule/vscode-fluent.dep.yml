@@ -1,6 +1,6 @@
 ---
 name: vscode-fluent
-version: a5ec8ffc1475499b1ef3232d883188e985c4268f
+version: 9f2a1c1f39175c1d4da46e5a14f1b11c6d466b63
 type: git_submodule
 homepage: https://github.com/macabeus/vscode-fluent
 license: mit

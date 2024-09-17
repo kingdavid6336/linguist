@@ -1,6 +1,6 @@
 ---
 name: ionide-fsgrammar
-version: bba27391e61090035449b5c1e5c4b9d396bc4c9b
+version: b38420f8569aa662b4862beb407a02e527e866c1
 type: git_submodule
 homepage: https://github.com/ionide/ionide-fsgrammar
 license: mit

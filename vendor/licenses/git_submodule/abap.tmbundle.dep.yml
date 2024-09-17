@@ -1,6 +1,6 @@
 ---
 name: abap.tmbundle
-version: 69bef91a6f51417efabbe61b528ec6d47afbd842
+version: a9b2efff4f4afa469d984353384f09e4ebd24055
 type: git_submodule
 homepage: https://github.com/pvl/abap.tmbundle
 license: permissive

@@ -1,6 +1,6 @@
 ---
 name: MATLAB-Language-grammar
-version: ba58ae58dc468e54f6679e2938855fe6032ce654
+version: e71df5024b4df6349bc6ef58bc4142aa7b309490
 type: git_submodule
 homepage: https://github.com/mathworks/MATLAB-Language-grammar
 license: bsd-2-clause

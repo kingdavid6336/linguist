@@ -1,6 +1,6 @@
 ---
 name: language-rtf
-version: 3b19316d92ddffee283b739f5f025358bfd496d9
+version: e9e8e7134dd38f3149e273718e934871f9a759e4
 type: git_submodule
 homepage: https://github.com/nwhetsell/language-rtf
 license: mit

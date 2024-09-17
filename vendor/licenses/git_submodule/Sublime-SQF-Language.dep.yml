@@ -1,6 +1,6 @@
 ---
 name: Sublime-SQF-Language
-version: a3e078316862ea08faef7b4fcb9574848ba57050
+version: bfe7efe490b94cfde1f752b7d787490f4be76390
 type: git_submodule
 homepage: https://github.com/JonBons/Sublime-SQF-Language
 license: apache-2.0
